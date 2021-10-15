@@ -39,6 +39,6 @@ Upload photo:
 <img src='https://media.giphy.com/media/ut13LKTWr0mX0tXFrX/giphy.gif'/>
 
 
-View uploaded photo to the server:
+View uploaded photo on the server:
 
 <img src='https://media.giphy.com/media/kDBztmuT3LKPs0o9x6/giphy.gif'/>
