@@ -34,7 +34,6 @@ User sign up and sign in & luanched style screen:
 <img src='https://media.giphy.com/media/UeeAqYrr5z69ZwrJMg/giphy.gif' />
 
 
-
 Upload photo:
 
 <img src='https://media.giphy.com/media/ut13LKTWr0mX0tXFrX/giphy.gif'/>
