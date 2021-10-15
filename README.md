@@ -29,16 +29,16 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/Oq1t8YyePSvqBvWzOS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-User sign up and sign in & launched style screen:
+User sign up and sign in & style launched screen:
 
-<img src='https://media.giphy.com/media/UeeAqYrr5z69ZwrJMg/giphy.gif' />
+<img src='https://media.giphy.com/media/UeeAqYrr5z69ZwrJMg/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Upload photo:
 
-<img src='https://media.giphy.com/media/ut13LKTWr0mX0tXFrX/giphy.gif'/>
+<img src='https://media.giphy.com/media/ut13LKTWr0mX0tXFrX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 View uploaded photo on the server:
 
-<img src='https://media.giphy.com/media/kDBztmuT3LKPs0o9x6/giphy.gif'/>
+<img src='https://media.giphy.com/media/kDBztmuT3LKPs0o9x6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
