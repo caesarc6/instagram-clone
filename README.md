@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/Oq1t8YyePSvqBvWzOS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-User sign up and sign in & luanched style screen:
+User sign up and sign in & launched style screen:
 
 <img src='https://media.giphy.com/media/UeeAqYrr5z69ZwrJMg/giphy.gif' />
 
